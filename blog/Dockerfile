@@ -1,5 +1,5 @@
 FROM ghost
-MAINTAINER williampsena@gmail.com
+MAINTAINER seuemail@seudominio.com.br
 
 VOLUME ["~/content"]
 
