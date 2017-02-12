@@ -1,0 +1,1 @@
+sudo docker run --name cpp-ghost -p 9001:2368 -d ghost
