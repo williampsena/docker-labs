@@ -1,1 +1,1 @@
-sudo docker run --name cpp-ghost -p 9001:2368 -d ghost
+sudo docker run --name cpp-ghost -v  `pwd`/content:/var/lib/ghost -p 9001:2368 -d ghost
