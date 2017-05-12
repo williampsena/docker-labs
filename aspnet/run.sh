@@ -1,0 +1,1 @@
+sudo docker run --name aspnet-dev -d -p 5000:80 aspnet-dev

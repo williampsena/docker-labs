@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/willisena/.nuget/packages"
+    ]
+  }
+}

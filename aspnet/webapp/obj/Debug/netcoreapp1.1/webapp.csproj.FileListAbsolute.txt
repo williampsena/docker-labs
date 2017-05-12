@@ -1,0 +1,8 @@
+/home/willisena/workspace/github/docker-labs/aspnet/webapp/bin/Debug/netcoreapp1.1/webapp.deps.json
+/home/willisena/workspace/github/docker-labs/aspnet/webapp/bin/Debug/netcoreapp1.1/webapp.runtimeconfig.json
+/home/willisena/workspace/github/docker-labs/aspnet/webapp/bin/Debug/netcoreapp1.1/webapp.runtimeconfig.dev.json
+/home/willisena/workspace/github/docker-labs/aspnet/webapp/bin/Debug/netcoreapp1.1/webapp.dll
+/home/willisena/workspace/github/docker-labs/aspnet/webapp/bin/Debug/netcoreapp1.1/webapp.pdb
+/home/willisena/workspace/github/docker-labs/aspnet/webapp/obj/Debug/netcoreapp1.1/webapp.AssemblyInfo.cs
+/home/willisena/workspace/github/docker-labs/aspnet/webapp/obj/Debug/netcoreapp1.1/webapp.dll
+/home/willisena/workspace/github/docker-labs/aspnet/webapp/obj/Debug/netcoreapp1.1/webapp.pdb
